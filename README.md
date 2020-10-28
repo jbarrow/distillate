@@ -1,13 +1,13 @@
-# 🧪`distillate`
+# `🧪distillate`
 
-🧪`distillate` is a Python package to aid with information extraction from PDFs.
+`🧪distillate` is a Python package to aid with information extraction from PDFs.
 It allows you to annotate PDF text using bounding boxes, and train multi-modal models.
 
 ## Installation
 
 ### Requirements
 
-For 🧪`distillate` to work, you must first install `Poppler`, a unix PDF annotation tool.
+For `🧪distillate` to work, you must first install `Poppler`, a unix PDF annotation tool.
 In future versions, I'd like to get OS X and Windows installation working.
 
 ```
