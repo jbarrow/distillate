@@ -1,4 +1,4 @@
-# `distillate`
+# 🧪 `distillate`
 
 `distillate` is a Python package to aid with information extraction from PDFs.
 It allows you to annotate PDF text using bounding boxes, and train multi-modal models.
