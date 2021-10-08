@@ -1,3 +1,9 @@
+# Archive Notice
+
+## AI2 Created a much better annotation interface with pawls (https://github.com/allenai/pawls), which subsumes all of the intended functionality of distillate.
+
+## As such, I will be archiving this project and spending any effort that would have gone towards it improving pawls.
+
 # `🧪distillate`
 
 `🧪distillate` is a Python package to aid with information extraction from PDFs.
